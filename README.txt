@@ -1,1 +1,1 @@
-Jpa Project
+Jpa Project V2
